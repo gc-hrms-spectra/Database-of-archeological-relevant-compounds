@@ -6,7 +6,7 @@ Korf, A., Hammann, S., Schmid, R., Froning, M., Hayen, H., & Cramp, L. J. (2020)
 
 ## Download
 You can download the database in JSON format here:
-[GC-HRMS spectral database of archeologically relevant compounds](https://raw.githubusercontent.com/gc-hrms-spectra/Database-of-archeological-relevant-compounds/dev/Archaeology_GC_HRMS_Spectra_Database.json))
+[GC-HRMS spectral database of archeologically relevant compounds](./download.html)
 
 ## How to use
 
